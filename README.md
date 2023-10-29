@@ -1,0 +1,1 @@
+Script which creates a CSV file which could later be used to analyze how often your internet was up or down.
